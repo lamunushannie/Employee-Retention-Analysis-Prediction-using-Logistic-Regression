@@ -2,7 +2,7 @@
 
 This project analyzes employee data to understand factors affecting retention and builds a logistic regression model to predict whether an employee will leave.
 
-## Steps
+**steps**
 1. Exploratory Data Analysis (EDA) to identify key variables.
 2. Visualizations:
    - Salary vs Retention
